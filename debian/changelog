@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinxcontrib-trio (1.1.2-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ben Westover <kwestover.kw@gmail.com>  Mon, 11 Jul 2022 03:44:55 -0400
+
+sphinxcontrib-trio (1.1.2-1) unstable; urgency=medium
+
+  * Initial Package (Closes: #1012580)
+
+ -- Ben Westover <kwestover.kw@gmail.com>  Fri, 10 Jun 2022 09:11:38 +0000

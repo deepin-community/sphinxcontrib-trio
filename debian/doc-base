@@ -1,0 +1,8 @@
+Document: sphinxcontrib.trio
+Title: sphinxcontrib_trio Documentation
+Abstract: Documentation for sphinxcontrib_trio, a tool to make Sphinx better at documenting Python functions and methods
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python3-sphinxcontrib.trio/html/index.html
+Files: /usr/share/doc/python3-sphinxcontrib.trio/html/*.html

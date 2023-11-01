@@ -1,0 +1,10 @@
+[run]
+branch=True
+omit=
+  */setup.py
+  */autodoc_examples.py
+
+[report]
+precision = 1
+exclude_lines =
+  pragma: no cover
