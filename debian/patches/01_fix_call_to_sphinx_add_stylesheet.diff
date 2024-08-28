@@ -1,0 +1,13 @@
+# Removed call to long deprecated add_stylesheet(), replaced by add_css_file(); also fixed upstream
+# in https://github.com/python-trio/sphinxcontrib-trio/commit/835bb2be9e00c50e5751d271380ac00fe98f8d07
+--- a/docs/source/conf.py
++++ b/docs/source/conf.py
+@@ -38,7 +38,7 @@
+ ]
+ 
+ def setup(app):
+-    app.add_stylesheet("hack.css")
++    app.add_css_file("hack.css")
+ 
+ intersphinx_mapping = {
+     "sphinx": ("http://www.sphinx-doc.org/en/stable/", None),
